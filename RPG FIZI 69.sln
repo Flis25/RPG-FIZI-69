@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG FIZI 69", "RPG FIZI 69\RPG FIZI 69.csproj", "{B9CF458F-6A65-4B3A-A63F-82C943C7F2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CF458F-6A65-4B3A-A63F-82C943C7F2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CF458F-6A65-4B3A-A63F-82C943C7F2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CF458F-6A65-4B3A-A63F-82C943C7F2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CF458F-6A65-4B3A-A63F-82C943C7F2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB282A60-784D-4F3E-80BC-FE6E5A1DB318}
+	EndGlobalSection
+EndGlobal
